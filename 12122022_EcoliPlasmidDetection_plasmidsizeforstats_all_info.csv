@@ -1,0 +1,321 @@
+,size,Category,Assembly_Type,Sequencing_Kit,Filtering,Polishing,Isolate
+0,146304.0,HLF,Hybrid,Ligation,Filtered,Pilon,0012-2L1
+1,133408.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,0012-2L1
+2,154828.0,HRF,Hybrid,Ligation,Filtered,Pilon,0012-2L1
+3,133389.0,HRUF,Hybrid,Ligation,Unfiltered,Pilon,0012-2L1
+4,146005.0,LLF,Long_Read,Ligation,Filtered,Unpolished,0012-2L1
+5,146385.0,LLFM,Long_Read,Ligation,Filtered,Medaka,0012-2L1
+6,146370.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,0012-2L1
+7,145999.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,0012-2L1
+8,146384.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,0012-2L1
+9,146370.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,0012-2L1
+10,154458.0,LRF,Long_Read,Rapid,Filtered,Unpolished,0012-2L1
+11,155011.0,LRFM,Long_Read,Rapid,Filtered,Medaka,0012-2L1
+12,154982.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,0012-2L1
+13,132880.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,0012-2L1
+14,133440.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,0012-2L1
+15,133406.0,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,0012-2L1
+16,33884.0,PP,PP,PP,Plasmid,Plasmid,0012-2L1
+17,33786.666666666664,HLF,Hybrid,Ligation,Filtered,Pilon,0012-C5
+18,33786.666666666664,HLUF,Hybrid,Ligation,Unfiltered,Pilon,0012-C5
+19,33786.666666666664,HRF,Hybrid,Rapid,Filtered,Pilon,0012-C5
+20,33786.666666666664,HRUF,Hybrid,Rapid,Unfiltered,Pilon,0012-C5
+21,49474.0,LLF,Long_Read,Ligation,Filtered,Unpolished,0012-C5
+22,49588.0,LLFM,Long_Read,Ligation,Filtered,Medaka,0012-C5
+23,49617.5,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,0012-C5
+24,49471.5,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,0012-C5
+25,49586.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,0012-C5
+26,49623.5,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,0012-C5
+27,93141.0,LRF,Long_Read,Rapid,Filtered,Unpolished,0012-C5
+28,93581.0,LRFM,Long_Read,Rapid,Filtered,Medaka,0012-C5
+29,93683.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,0012-C5
+30,35437.333333333336,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,0012-C5
+31,35630.333333333336,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,0012-C5
+32,35665.333333333336,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,0012-C5
+33,5009.0,PP,PP,PP,Plasmid,Plasmid,0012-C5
+34,95689.33333333333,HLF,Hybrid,Ligation,Filtered,Pilon,0205-3S1
+35,95689.33333333333,HLUF,Hybrid,Ligation,Unfiltered,Pilon,0205-3S1
+36,95689.33333333333,HRF,Hybrid,Rapid,Filtered,Pilon,0205-3S1
+37,95689.33333333333,HRUF,Hybrid,Rapid,Unfiltered,Pilon,0205-3S1
+38,59541.8,LLF,Long_Read,Ligation,Filtered,Unpolished,0205-3S1
+39,59673.4,LLFM,Long_Read,Ligation,Filtered,Medaka,0205-3S1
+40,59659.8,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,0205-3S1
+41,74380.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,0205-3S1
+42,74380.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,0205-3S1
+43,74517.25,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,0205-3S1
+44,106439.33333333333,LRF,Long_Read,Rapid,Filtered,Unpolished,0205-3S1
+45,106814.33333333333,LRFM,Long_Read,Rapid,Filtered,Medaka,0205-3S1
+46,106770.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,0205-3S1
+47,106436.66666666667,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,0205-3S1
+48,106436.66666666667,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,0205-3S1
+49,106612.0,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,0205-3S1
+50,29797.0,PP,PP,PP,Plasmid,Plasmid,0205-3S1
+51,43535.5,HLF,Hybrid,Ligation,Filtered,Pilon,0205-C9
+52,43841.25,HLUF,Hybrid,Ligation,Unfiltered,Pilon,0205-C9
+53,43535.5,HRF,Hybrid,Rapid,Filtered,Pilon,0205-C9
+54,43535.5,HRUF,Hybrid,Rapid,Unfiltered,Pilon,0205-C9
+55,57920.666666666664,LLF,Long_Read,Ligation,Filtered,Unpolished,0205-C9
+56,58045.0,LLFM,Long_Read,Ligation,Filtered,Medaka,0205-C9
+57,58045.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,0205-C9
+58,43740.25,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,0205-C9
+59,43841.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,0205-C9
+60,43845.75,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,0205-C9
+61,83150.5,LRF,Long_Read,Rapid,Filtered,Unpolished,0205-C9
+62,59210.666666666664,LRFM,Long_Read,Rapid,Filtered,Medaka,0205-C9
+63,59208.666666666664,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,0205-C9
+64,46645.5,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,0205-C9
+65,46318.5,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,0205-C9
+66,46318.75,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,0205-C9
+67,34551.0,PP,PP,PP,Plasmid,Plasmid,0205-C9
+68,68630.2,HLF,Hybrid,Ligation,Filtered,Pilon,23315-C5
+69,68628.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,23315-C5
+70,68628.0,HRF,Hybrid,Rapid,Filtered,Pilon,23315-C5
+71,67985.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,23315-C5
+72,100394.0,LLF,Long_Read,Ligation,Filtered,Unpolished,23315-C5
+73,100525.33333333333,LLFM,Long_Read,Ligation,Filtered,Medaka,23315-C5
+74,100549.33333333333,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,23315-C5
+75,100401.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,23315-C5
+76,100530.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,23315-C5
+77,100555.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,23315-C5
+78,86812.0,LRF,Long_Read,Rapid,Filtered,Unpolished,23315-C5
+79,87145.75,LRFM,Long_Read,Rapid,Filtered,Medaka,23315-C5
+80,87082.5,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,23315-C5
+81,85224.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,23315-C5
+82,85537.5,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,23315-C5
+83,85484.75,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,23315-C5
+84,23552.0,PP,PP,PP,Plasmid,Plasmid,23315-C5
+85,89110.33333333333,HLF,Hybrid,Ligation,Filtered,Pilon,2402-1H1
+86,83459.66666666667,HLUF,Hybrid,Ligation,Unfiltered,Pilon,2402-1H1
+87,141620.0,HRF,Hybrid,Rapid,Filtered,Pilon,2402-1H1
+88,53023.0,HRF,Hybrid,Rapid,Unfiltered,Pilon,2402-1H1
+89,94618.5,HRUF,Hybrid,Rapid,Unfiltered,Pilon,2402-1H1
+90,60002.4,LLF,Long_Read,Ligation,Filtered,Unpolished,2402-1H1
+91,60136.2,LLFM,Long_Read,Ligation,Filtered,Medaka,2402-1H1
+92,58849.4,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,2402-1H1
+93,74367.75,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,2402-1H1
+94,74533.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,2402-1H1
+95,72924.25,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,2402-1H1
+96,97137.5,LRF,Long_Read,Rapid,Filtered,Unpolished,2402-1H1
+97,94473.5,LRFM,Long_Read,Rapid,Filtered,Medaka,2402-1H1
+98,94364.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,2402-1H1
+99,97538.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,2402-1H1
+100,95259.5,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,2402-1H1
+101,44718.0,PP,PP,PP,Plasmid,Plasmid,2402-1H1
+102,23231.5,PP,PP,PP,Plasmid,Plasmid,2402-C3
+103,56467.666666666664,HLF,Hybrid,Ligation,Filtered,Pilon,3862-S2
+104,58152.666666666664,HLUF,Hybrid,Ligation,Unfiltered,Pilon,3862-S2
+105,97321.5,HRF,Hybrid,Rapid,Filtered,Pilon,3862-S2
+106,97305.5,HRUF,Hybrid,Rapid,Unfiltered,Pilon,3862-S2
+107,4353.0,LLF,Long_Read,Ligation,Filtered,Unpolished,3862-S2
+108,4357.0,LLFM,Long_Read,Ligation,Filtered,Medaka,3862-S2
+109,4359.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,3862-S2
+110,4349.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,3862-S2
+111,4353.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,3862-S2
+112,4355.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,3862-S2
+113,97283.0,LRF,Long_Read,Rapid,Filtered,Unpolished,3862-S2
+114,98133.0,LRFM,Long_Read,Rapid,Filtered,Medaka,3862-S2
+115,97499.5,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,3862-S2
+116,97127.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,3862-S2
+117,98259.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,3862-S2
+118,97495.5,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,3862-S2
+119,45507.0,PP,PP,PP,Plasmid,Plasmid,3862-S2
+120,112317.0,HLF,Hybrid,Ligation,Filtered,Pilon,4957-3S1
+121,187644.33333333334,HLUF,Hybrid,Ligation,Unfiltered,Pilon,4957-3S1
+122,141273.25,HRF,Hybrid,Rapid,Filtered,Pilon,4957-3S1
+123,141273.25,HRUF,Hybrid,Rapid,Unfiltered,Pilon,4957-3S1
+124,64426.5,LLF,Long_Read ,Ligation,Filtered,Unpolished,4957-3S1
+125,63342.0,LLFM,Long_Read ,Ligation,Filtered,Medaka,4957-3S1
+126,63265.0,LLFMP,Long_Read ,Ligation,Filtered,Medaka_Pilon,4957-3S1
+127,187269.66666666666,LLUF,Long_Read ,Ligation,Unfiltered,Unpolished,4957-3S1
+128,187701.66666666666,LLUFM,Long_Read ,Ligation,Unfiltered,Medaka,4957-3S1
+129,187673.0,LLUFMP,Long_Read ,Ligation,Unfiltered,Medaka_Pilon,4957-3S1
+130,187075.33333333334,LRF,Long_Read ,Rapid,Filtered,Unpolished,4957-3S1
+131,187717.66666666666,LRFM,Long_Read ,Rapid,Filtered,Medaka,4957-3S1
+132,187671.0,LRFMP,Long_Read ,Rapid,Filtered,Medaka_Pilon,4957-3S1
+133,140778.0,LRUF,Long_Read ,Rapid,Unfiltered,Unpolished,4957-3S1
+134,141296.0,LRUFM,Long_Read ,Rapid,Unfiltered,Medaka,4957-3S1
+135,141268.5,LRUFMP,Long_Read ,Rapid,Unfiltered,Medaka_Pilon,4957-3S1
+136,2997.0,PP,PP,PP,Plasmid,Plasmid,4957-3S1
+137,117930.0,HLF,Hybrid,Ligation,Filtered,Pilon,4957-C3
+138,79390.66666666667,HLUF,Hybrid,Ligation,Unfiltered,Pilon,4957-C3
+139,79390.66666666667,HRF,Hybrid,Rapid,Filtered,Pilon,4957-C3
+140,79902.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,4957-C3
+141,117776.5,LLF,Long_Read,Ligation,Filtered,Unpolished,4957-C3
+142,117950.0,LLFM,Long_Read,Ligation,Filtered,Medaka,4957-C3
+143,117930.5,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,4957-C3
+144,117761.5,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,4957-C3
+145,117947.5,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,4957-C3
+146,117928.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,4957-C3
+147,117626.5,LRF,Long_Read,Rapid,Filtered,Unpolished,4957-C3
+148,117939.5,LRFM,Long_Read,Rapid,Filtered,Medaka,4957-C3
+149,117927.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,4957-C3
+150,79149.33333333333,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,4957-C3
+151,79392.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,4957-C3
+152,79383.66666666667,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,4957-C3
+153,4510.0,PP,PP,PP,Plasmid,Plasmid,4957-C3
+154,73145.33333333333,HLF,Hybrid,Ligation,Filtered,Pilon,6245-1H1
+155,73148.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,6245-1H1
+156,73148.0,HRF,Hybrid,Rapid,Filtered,Pilon,6245-1H1
+157,73148.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,6245-1H1
+158,108392.5,LLF,Long_Read ,Ligation,Filtered,Unpolished,6245-1H1
+159,108707.5,LLFM,Long_Read ,Ligation,Filtered,Medaka,6245-1H1
+160,108680.5,LLFMP,Long_Read ,Ligation,Filtered,Medaka_Pilon,6245-1H1
+161,108377.5,LLUF,Long_Read ,Ligation,Unfiltered,Unpolished,6245-1H1
+162,108647.0,LLUFM,Long_Read ,Ligation,Unfiltered,Medaka,6245-1H1
+163,108644.5,LLUFMP,Long_Read ,Ligation,Unfiltered,Medaka_Pilon,6245-1H1
+164,108595.0,LRF,Long_Read ,Rapid,Filtered,Unpolished,6245-1H1
+165,108714.0,LRFM,Long_Read ,Rapid,Filtered,Medaka,6245-1H1
+166,108681.0,LRFMP,Long_Read ,Rapid,Filtered,Medaka_Pilon,6245-1H1
+167,116590.0,LRUF,Long_Read ,Rapid,Unfiltered,Medaka,6245-1H1
+168,51334.5,LRUF,Long_Read ,Rapid,Unfiltered,Unpolished,6245-1H1
+169,73167.0,LRUFM,Long_Read ,Rapid,Unfiltered,Medaka,6245-1H1
+170,73167.0,LRUFMP,Long_Read ,Rapid,Unfiltered,Medaka_Pilon,6245-1H1
+171,23544.0,PP,PP,PP,Plasmid,Plasmid,6245-1H1
+172,73145.33333333333,HLF,Hybrid,Ligation,Filtered,Pilon,6245-2L1
+173,73148.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,6245-2L1
+174,73148.0,HRF,Hybrid,Rapid,Filtered,Pilon,6245-2L1
+175,79413.33333333333,HRUF,Hybrid,Rapid,Unfiltered,Pilon,6245-2L1
+176,108219.0,LLF,Long_Read ,Ligation,Filtered,Unpolished,6245-2L1
+177,108527.0,LLFM,Long_Read ,Ligation,Filtered,Medaka,6245-2L1
+178,108521.5,LLFMP,Long_Read ,Ligation,Filtered,Medaka_Pilon,6245-2L1
+179,108359.0,LLUF,Long_Read ,Ligation,Unfiltered,Unpolished,6245-2L1
+180,108609.5,LLUFM,Long_Read ,Ligation,Unfiltered,Medaka,6245-2L1
+181,108420.0,LLUFMP,Long_Read ,Ligation,Unfiltered,Medaka_Pilon,6245-2L1
+182,108175.5,LRF,Long_Read ,Rapid,Filtered,Unpolished,6245-2L1
+183,108578.0,LRFM,Long_Read ,Rapid,Filtered,Medaka,6245-2L1
+184,108533.0,LRFMP,Long_Read ,Rapid,Filtered,Medaka_Pilon,6245-2L1
+185,108140.5,LRUF,Long_Read ,Rapid,Unfiltered,Unpolished,6245-2L1
+186,108550.5,LRUFM,Long_Read ,Rapid,Unfiltered,Medaka,6245-2L1
+187,108510.5,LRUFMP,Long_Read ,Rapid,Unfiltered,Medaka_Pilon,6245-2L1
+188,17564.666666666668,PP,PP,PP,Plasmid,Plasmid,6245-2L1
+189,149584.5,HLF,Hybrid,Ligation,Filtered,Pilon,6245-C4
+190,149566.5,HLUF,Hybrid,Ligation,Unfiltered,Pilon,6245-C4
+191,149584.5,HRF,Hybrid,Rapid,Filtered,Pilon,6245-C4
+192,149584.5,HRUF,Hybrid,Rapid,Unfiltered,Pilon,6245-C4
+193,149235.0,LLF,Long_Read ,Ligation,Filtered,Unpolished,6245-C4
+194,149589.5,LLFM,Long_Read ,Ligation,Filtered,Medaka,6245-C4
+195,149578.5,LLFMP,Long_Read ,Ligation,Filtered,Medaka_Pilon,6245-C4
+196,149206.0,LLUF,Long_Read ,Ligation,Unfiltered,Unpolished,6245-C4
+197,149588.0,LLUFM,Long_Read ,Ligation,Unfiltered,Medaka,6245-C4
+198,149577.5,LLUFMP,Long_Read ,Ligation,Unfiltered,Medaka_Pilon,6245-C4
+199,149183.5,LRF,Long_Read ,Rapid,Filtered,Unpolished,6245-C4
+200,149623.0,LRFM,Long_Read ,Rapid,Filtered,Medaka,6245-C4
+201,149586.5,LRFMP,Long_Read ,Rapid,Filtered,Medaka_Pilon,6245-C4
+202,149055.0,LRUF,Long_Read ,Rapid,Unfiltered,Unpolished,6245-C4
+203,149616.0,LRUFM,Long_Read ,Rapid,Unfiltered,Medaka,6245-C4
+204,149583.5,LRUFMP,Long_Read ,Rapid,Unfiltered,Medaka_Pilon,6245-C4
+205,114671.0,HLF,Hybrid,Ligation,Filtered,Pilon,7578-1L2
+206,114671.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,7578-1L2
+207,114671.0,HRF,Hybrid,Ligation,Filtered,Pilon,7578-1L2
+208,114671.0,HRUF,Hybrid,Ligation,Unfiltered,Pilon,7578-1L2
+209,114256.0,LLF,Long_Read,Ligation,Filtered,Unpolished,7578-1L2
+210,114593.0,LLFM,Long_Read,Ligation,Filtered,Medaka,7578-1L2
+211,114656.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,7578-1L2
+212,114251.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,7578-1L2
+213,114607.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,7578-1L2
+214,114667.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,7578-1L2
+215,114569.0,LRF,Long_Read,Rapid,Filtered,Unpolished,7578-1L2
+216,114612.0,LRFM,Long_Read,Rapid,Filtered,Medaka,7578-1L2
+217,114650.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,7578-1L2
+218,114562.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,7578-1L2
+219,114620.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,7578-1L2
+220,114668.0,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,7578-1L2
+221,77637.66666666667,HLF,Hybrid,Ligation,Filtered,Pilon,9226-2S1
+222,76556.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,9226-2S1
+223,72259.33333333333,HRF,Hybrid,Rapid,Filtered,Pilon,9226-2S1
+224,72467.5,HRUF,Hybrid,Rapid,Unfiltered,Pilon,9226-2S1
+225,83763.0,LLFM,Long_Read,Ligation,Filtered,Medaka,9226-2S1
+226,83747.28571428571,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,9226-2S1
+227,105329.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,9226-2S1
+228,105329.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,9226-2S1
+229,105435.28571428571,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,9226-2S1
+230,106893.25,LRF,Long_Read,Rapid,Filtered,Unpolished,9226-2S1
+231,106893.25,LRFM,Long_Read,Rapid,Filtered,Medaka,9226-2S1
+232,107102.5,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,9226-2S1
+233,87166.4,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,9226-2S1
+234,87166.4,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,9226-2S1
+235,87517.4,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,9226-2S1
+236,4339.0,PP,PP,PP,Plasmid,Plasmid,9226-2S1
+237,64687.5,HLF,Hybrid,Ligation,Filtered,Pilon,9226-3H1
+238,66061.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,9226-3H1
+239,63166.25,HRF,Hybrid,Rapid,Filtered,Pilon,9226-3H1
+240,63166.25,HRUF,Hybrid,Rapid,Unfiltered,Pilon,9226-3H1
+241,105104.5,LLF,Long_Read,Ligation,Filtered,Unpolished,9226-3H1
+242,105313.75,LLFM,Long_Read,Ligation,Filtered,Medaka,9226-3H1
+243,105314.5,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,9226-3H1
+244,95027.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,9226-3H1
+245,95231.2,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,9226-3H1
+246,95239.4,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,9226-3H1
+247,122829.0,LRF,Long_Read,Rapid,Filtered,Unpolished,9226-3H1
+248,123285.0,LRFM,Long_Read,Rapid,Filtered,Medaka,9226-3H1
+249,123271.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,9226-3H1
+250,86363.33333333333,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,9226-3H1
+251,86759.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,9226-3H1
+252,86751.66666666667,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,9226-3H1
+253,15909.333333333334,PP,PP,PP,Plasmid,Plasmid,9226-3H1
+254,68060.0,HLF,Hybrid,Ligation,Filtered,Pilon,9226-C5
+255,46419.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,9226-C5
+256,68058.5,HRF,Hybrid,Ligation,Filtered,Pilon,9226-C5
+257,28638.0,HRUF,Hybrid,Ligation,Unfiltered,Pilon,9226-C5
+258,67806.5,LLF,Long_Read,Ligation,Filtered,Unpolished,9226-C5
+259,68013.5,LLFM,Long_Read,Ligation,Filtered,Medaka,9226-C5
+260,68057.5,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,9226-C5
+261,67791.5,LLUF,Long_Read,Rapid,Unfiltered,Unpolished,9226-C5
+262,68014.5,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,9226-C5
+263,68060.5,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,9226-C5
+264,69118.0,LRF,Long_Read,Rapid,Filtered,Unpolished,9226-C5
+265,68047.5,LRFM,Long_Read,Rapid,Filtered,Medaka,9226-C5
+266,68059.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,9226-C5
+267,49544.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,9226-C5
+268,48537.5,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,9226-C5
+269,48537.5,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,9226-C5
+270,44150.0,PP,PP,PP,Plasmid,Plasmid,9226-C5
+271,90247.0,HLF,Hybrid,Rapid,Filtered,Pilon,9413-C4
+272,89671.0,HLUF,Hybrid,Rapid,Unfiltered,Pilon,9413-C4
+273,89671.0,HRF,Hybrid,Rapid,Filtered,Pilon,9413-C4
+274,89671.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,9413-C4
+275,89856.0,LLF,Long_Read,Ligation,Filtered,Unpolished,9413-C4
+276,90213.0,LLFM,Long_Read,Ligation,Filtered,Medaka,9413-C4
+277,90247.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,9413-C4
+278,89838.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,9413-C4
+279,90211.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,9413-C4
+280,90247.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,9413-C4
+281,90236.0,LRF,Long_Read,Rapid,Filtered,Unpolished,9413-C4
+282,90268.0,LRFM,Long_Read,Rapid,Filtered,Medaka,9413-C4
+283,90246.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,9413-C4
+284,90091.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,9413-C4
+285,90280.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,9413-C4
+286,90247.0,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,9413-C4
+287,196051.0,HLF,Hybrid,Ligation,Filtered,Pilon,9619-2L1
+288,196039.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,9619-2L1
+289,96160.0,HRF,Hybrid,Rapid,Filtered,Pilon,9619-2L1
+290,99035.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,9619-2L1
+291,195714.0,LLF,Long_Read,Ligation,Filtered,Unpolished,9619-2L1
+292,196163.0,LLFM,Long_Read,Ligation,Filtered,Medaka,9619-2L1
+293,196086.0,LLFMP,Long_Read,Ligation,Filtered,Medaka_Pilon,9619-2L1
+294,195688.0,LLUF,Long_Read,Ligation,Unfiltered,Unpolished,9619-2L1
+295,196149.0,LLUFM,Long_Read,Ligation,Unfiltered,Medaka,9619-2L1
+296,196080.0,LLUFMP,Long_Read,Ligation,Unfiltered,Medaka_Pilon,9619-2L1
+297,99659.0,LRF,Long_Read,Rapid,Filtered,Unpolished,9619-2L1
+298,99987.5,LRFM,Long_Read,Rapid,Filtered,Medaka,9619-2L1
+299,99932.0,LRFMP,Long_Read,Rapid,Filtered,Medaka_Pilon,9619-2L1
+300,99730.0,LRUF,Long_Read,Rapid,Unfiltered,Unpolished,9619-2L1
+301,100071.0,LRUFM,Long_Read,Rapid,Unfiltered,Medaka,9619-2L1
+302,100019.0,LRUFMP,Long_Read,Rapid,Unfiltered,Medaka_Pilon,9619-2L1
+303,126237.33333333333,HLF,Hybrid,Ligation,Filtered,Pilon,9619-3S1
+304,126237.0,HLUF,Hybrid,Ligation,Unfiltered,Pilon,9619-3S1
+305,98553.66666666667,HRF,Hybrid,Rapid,Filtered,Pilon,9619-3S1
+306,95446.0,HRUF,Hybrid,Rapid,Unfiltered,Pilon,9619-3S1
+307,125917.0,LLF,Long_Read ,Ligation,Filtered,Unpolished,9619-3S1
+308,126234.66666666667,LLFM,Long_Read ,Ligation,Filtered,Medaka,9619-3S1
+309,126240.66666666667,LLFMP,Long_Read ,Ligation,Filtered,Medaka_Pilon,9619-3S1
+310,125910.33333333333,LLUF,Long_Read ,Ligation,Unfiltered,Unpolished,9619-3S1
+311,126237.0,LLUFM,Long_Read ,Ligation,Unfiltered,Medaka,9619-3S1
+312,126240.33333333333,LLUFMP,Long_Read ,Ligation,Unfiltered,Medaka_Pilon,9619-3S1
+313,125883.0,LRF,Long_Read ,Rapid,Filtered,Unpolished,9619-3S1
+314,126256.33333333333,LRFM,Long_Read ,Rapid,Filtered,Medaka,9619-3S1
+315,126240.66666666667,LRFMP,Long_Read ,Rapid,Filtered,Medaka_Pilon,9619-3S1
+316,95174.5,LRUF,Long_Read ,Rapid,Unfiltered,Unpolished,9619-3S1
+317,95407.0,LRUFM,Long_Read ,Rapid,Unfiltered,Medaka,9619-3S1
+318,95325.0,LRUFMP,Long_Read ,Rapid,Unfiltered,Medaka_Pilon,9619-3S1
+319,22309.5,PP,PP,PP,Plasmid,Plasmid,9619-3S1
